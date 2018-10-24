@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 4c1057b17d0e5a04c944cdc5008415a2
+timeCreated: 1494890868
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axel_Back
+    100002: Axel_Front
+    100004: Base Floor
+    100006: Box004
+    100008: Box068
+    100010: Canon01
+    100012: Canon02
+    100014: Canon03
+    100016: Canon04
+    100018: Cylinder005
+    100020: Exhaust01
+    100022: Exhaust02
+    100024: High_Banner
+    100026: Lantern
+    100028: Large_Sail
+    100030: Large_Sail_Rings
+    100032: Line005
+    100034: Line006
+    100036: outer_body
+    100038: //RootNode
+    100040: Plane008
+    100042: Railing
+    100044: Sail_Rope01
+    100046: Sail_Rope02
+    100048: Sail_Rope03
+    100050: Sail_Rope04
+    100052: Sail_Rope05
+    100054: Sail_Rope06
+    100056: Small_Sail
+    100058: Small_Sail_Rings
+    100060: Trim_Objects
+    100062: Wheel_Back01
+    100064: Wheel_Back02
+    100066: Wheel_Front01
+    100068: Wheel_Front02
+    100070: Back_Sail
+    100072: Back_Sail_Frame
+    100074: Flag
+    100076: Flag_Pole
+    400000: Axel_Back
+    400002: Axel_Front
+    400004: Base Floor
+    400006: Box004
+    400008: Box068
+    400010: Canon01
+    400012: Canon02
+    400014: Canon03
+    400016: Canon04
+    400018: Cylinder005
+    400020: Exhaust01
+    400022: Exhaust02
+    400024: High_Banner
+    400026: Lantern
+    400028: Large_Sail
+    400030: Large_Sail_Rings
+    400032: Line005
+    400034: Line006
+    400036: outer_body
+    400038: //RootNode
+    400040: Plane008
+    400042: Railing
+    400044: Sail_Rope01
+    400046: Sail_Rope02
+    400048: Sail_Rope03
+    400050: Sail_Rope04
+    400052: Sail_Rope05
+    400054: Sail_Rope06
+    400056: Small_Sail
+    400058: Small_Sail_Rings
+    400060: Trim_Objects
+    400062: Wheel_Back01
+    400064: Wheel_Back02
+    400066: Wheel_Front01
+    400068: Wheel_Front02
+    400070: Back_Sail
+    400072: Back_Sail_Frame
+    400074: Flag
+    400076: Flag_Pole
+    2300000: Axel_Back
+    2300002: Axel_Front
+    2300004: Base Floor
+    2300006: Box004
+    2300008: Box068
+    2300010: Canon01
+    2300012: Canon02
+    2300014: Canon03
+    2300016: Canon04
+    2300018: Cylinder005
+    2300020: Exhaust01
+    2300022: Exhaust02
+    2300024: High_Banner
+    2300026: Lantern
+    2300028: Large_Sail
+    2300030: Large_Sail_Rings
+    2300032: Line005
+    2300034: Line006
+    2300036: outer_body
+    2300038: Plane008
+    2300040: Railing
+    2300042: Sail_Rope01
+    2300044: Sail_Rope02
+    2300046: Sail_Rope03
+    2300048: Sail_Rope04
+    2300050: Sail_Rope05
+    2300052: Sail_Rope06
+    2300054: Small_Sail
+    2300056: Small_Sail_Rings
+    2300058: Trim_Objects
+    2300060: Wheel_Back01
+    2300062: Wheel_Back02
+    2300064: Wheel_Front01
+    2300066: Wheel_Front02
+    2300068: Back_Sail
+    2300070: Back_Sail_Frame
+    2300072: Flag
+    2300074: Flag_Pole
+    3300000: Axel_Back
+    3300002: Axel_Front
+    3300004: Base Floor
+    3300006: Box004
+    3300008: Box068
+    3300010: Canon01
+    3300012: Canon02
+    3300014: Canon03
+    3300016: Canon04
+    3300018: Cylinder005
+    3300020: Exhaust01
+    3300022: Exhaust02
+    3300024: High_Banner
+    3300026: Lantern
+    3300028: Large_Sail
+    3300030: Large_Sail_Rings
+    3300032: Line005
+    3300034: Line006
+    3300036: outer_body
+    3300038: Plane008
+    3300040: Railing
+    3300042: Sail_Rope01
+    3300044: Sail_Rope02
+    3300046: Sail_Rope03
+    3300048: Sail_Rope04
+    3300050: Sail_Rope05
+    3300052: Sail_Rope06
+    3300054: Small_Sail
+    3300056: Small_Sail_Rings
+    3300058: Trim_Objects
+    3300060: Wheel_Back01
+    3300062: Wheel_Back02
+    3300064: Wheel_Front01
+    3300066: Wheel_Front02
+    3300068: Back_Sail
+    3300070: Back_Sail_Frame
+    3300072: Flag
+    3300074: Flag_Pole
+    4300000: Cylinder005
+    4300002: Box004
+    4300004: outer_body
+    4300006: Base Floor
+    4300008: Axel_Back
+    4300010: Railing
+    4300012: Large_Sail
+    4300014: Small_Sail
+    4300016: Large_Sail_Rings
+    4300018: Small_Sail_Rings
+    4300020: Line005
+    4300022: Line006
+    4300024: Sail_Rope04
+    4300026: Sail_Rope03
+    4300028: Sail_Rope02
+    4300030: Sail_Rope01
+    4300032: Box068
+    4300034: Lantern
+    4300036: Sail_Rope06
+    4300038: Sail_Rope05
+    4300040: High_Banner
+    4300042: Canon01
+    4300044: Trim_Objects
+    4300046: Canon02
+    4300048: Canon03
+    4300050: Canon04
+    4300052: Exhaust01
+    4300054: Exhaust02
+    4300056: Axel_Front
+    4300058: Wheel_Front01
+    4300060: Wheel_Front02
+    4300062: Wheel_Back02
+    4300064: Wheel_Back01
+    4300066: Plane008
+    4300068: Flag_Pole
+    4300070: Back_Sail_Frame
+    4300072: Back_Sail
+    4300074: Flag
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
